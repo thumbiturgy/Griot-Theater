@@ -1,0 +1,789 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+    <head>
+	<meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Theatre Review: ‘A Raisin in the Sun’ at Arena Stage | Maryland Theatre Guide</title>
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://mdtheatreguide.com/xmlrpc.php">
+<meta property="og:image" content="https://mdtheatreguide.com/wp-content/uploads/2017/04/lores_production-raisin_04-500x333.jpg"/>
+    <meta property="og:image:width" content="550" />
+    <meta property="og:image:height" content="600" />
+
+<meta property="og:title" content="Theatre Review: ‘A Raisin in the Sun’ at Arena Stage"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="Arena Stage’s production of “A Raisin in the Sun,” directed by Tazewell Thompson brings new life to an old classic. Set in the 1950s, “A Raisin in the Sun” explores themes of hope, freedom and the Ame"/>
+<meta property="og:url" content="https://mdtheatreguide.com/2017/04/theatre-review-a-raisin-in-the-sun-at-arena-stage/"/>
+<meta property="og:site_name" content="Maryland Theatre Guide"/>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="shortcut icon" href="https://mdtheatreguide.com/wp-content/uploads/2014/11/MDTG-ICON-5461882c_site_icon.png" />
+<link rel="apple-touch-icon" href="https://mdtheatreguide.com/wp-content/themes/goodnews5/apple-touch-icon-precomposed.png" />
+
+<link rel="pingback" href="https://mdtheatreguide.com/xmlrpc.php" />
+        <!--[if lt IE 9]>
+	<script src="https://mdtheatreguide.com/wp-content/themes/goodnews5/framework/helpers/js/html5.js"></script>
+	<script src="https://mdtheatreguide.com/wp-content/themes/goodnews5/framework/helpers/js/IE9.js"></script>
+	<![endif]-->
+	<meta name='robots' content='max-image-preview:large' />
+<!-- Jetpack Site Verification Tags -->
+<meta name="google-site-verification" content="T2RysH_bHUcGa0XjrpATaKWednEIF7fORxfxstlKK48" />
+<link rel="alternate" type="application/rss+xml" title="Maryland Theatre Guide &raquo; Feed" href="https://mdtheatreguide.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Maryland Theatre Guide &raquo; Comments Feed" href="https://mdtheatreguide.com/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/mdtheatreguide.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=f5a4d7ab600f282770a09ea4ac1f5553"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://mdtheatreguide.com/wp-includes/css/dist/block-library/style.min.css?ver=f5a4d7ab600f282770a09ea4ac1f5553' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://mdtheatreguide.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://mdtheatreguide.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=f5a4d7ab600f282770a09ea4ac1f5553' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://mdtheatreguide.com/wp-includes/css/classic-themes.min.css?ver=f5a4d7ab600f282770a09ea4ac1f5553' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='events-manager-css' href='https://mdtheatreguide.com/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.99912' type='text/css' media='all' />
+<link rel='stylesheet' id='plugins-css' href='https://mdtheatreguide.com/wp-content/themes/goodnews5/css/plugins.css?ver=5.11.1' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css' href='https://mdtheatreguide.com/wp-content/themes/goodnews5/css/main.css?ver=5.11.1' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css' href='https://mdtheatreguide.com/wp-content/themes/goodnews5/css/media.css?ver=5.11.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css' href='https://mdtheatreguide.com/wp-content/themes/goodnews5/style.css?ver=f5a4d7ab600f282770a09ea4ac1f5553' type='text/css' media='all' />
+<link rel='stylesheet' id='black-style-css' href='https://mdtheatreguide.com/wp-content/themes/goodnews5/css/flamingo.css?ver=f5a4d7ab600f282770a09ea4ac1f5553' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://mdtheatreguide.com/wp-content/plugins/jetpack/css/jetpack.css?ver=12.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.3' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='email-posts-to-subscribers-js-extra'>
+/* <![CDATA[ */
+var elp_data = {"messages":{"elp_name_required":"Please enter name.","elp_email_required":"Please enter email address.","elp_invalid_name":"Name seems invalid.","elp_invalid_email":"Email address seems invalid.","elp_unexpected_error":"Oops.. Unexpected error occurred.","elp_invalid_captcha":"Robot verification failed, please try again.","elp_invalid_key":"Robot verification failed, invalid key.","elp_successfull_single":"You have successfully subscribed.","elp_successfull_double":"You have successfully subscribed. You will receive a confirmation email in few minutes. Please follow the link in it to confirm your subscription. If the email takes more than 15 minutes to appear in your mailbox, please check your spam folder.","elp_email_exist":"Email already exist.","elp_email_squeeze":"You are trying to submit too fast. try again in 1 minute."},"elp_ajax_url":"https:\/\/mdtheatreguide.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-content/plugins/email-posts-to-subscribers//inc/email-posts-to-subscribers.js?ver=2.2' id='email-posts-to-subscribers-js'></script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2' id='jquery-ui-menu-js'></script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664' id='wp-a11y-js'></script>
+<script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.2' id='jquery-ui-autocomplete-js'></script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.2' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.2' id='jquery-ui-controlgroup-js'></script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.2' id='jquery-ui-checkboxradio-js'></script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/jquery/ui/button.min.js?ver=1.13.2' id='jquery-ui-button-js'></script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.2' id='jquery-ui-dialog-js'></script>
+<script type='text/javascript' id='events-manager-js-extra'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"https:\/\/mdtheatreguide.com\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/mdtheatreguide.com\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"mm\/dd\/yy","ui_css":"https:\/\/mdtheatreguide.com\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui.min.css","show24hours":"0","is_ssl":"1","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.99912' id='events-manager-js'></script>
+<link rel="https://api.w.org/" href="https://mdtheatreguide.com/wp-json/" /><link rel="alternate" type="application/json" href="https://mdtheatreguide.com/wp-json/wp/v2/posts/161196" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mdtheatreguide.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://mdtheatreguide.com/wp-includes/wlwmanifest.xml" />
+
+<link rel="canonical" href="https://mdtheatreguide.com/2017/04/theatre-review-a-raisin-in-the-sun-at-arena-stage/" />
+<link rel='shortlink' href='https://mdtheatreguide.com/?p=161196' />
+<link rel="alternate" type="application/json+oembed" href="https://mdtheatreguide.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmdtheatreguide.com%2F2017%2F04%2Ftheatre-review-a-raisin-in-the-sun-at-arena-stage%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://mdtheatreguide.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmdtheatreguide.com%2F2017%2F04%2Ftheatre-review-a-raisin-in-the-sun-at-arena-stage%2F&#038;format=xml" />
+
+<!-- This site is using AdRotate v5.11 to display their advertisements - https://ajdg.solutions/ -->
+<!-- AdRotate CSS -->
+<style type="text/css" media="screen">
+	.g { margin:0px; padding:0px; overflow:hidden; line-height:1; zoom:1; }
+	.g img { height:auto; }
+	.g-col { position:relative; float:left; }
+	.g-col:first-child { margin-left: 0; }
+	.g-col:last-child { margin-right: 0; }
+	.g-2 { min-width:5px; max-width:310px; }
+	.b-2 { margin:5px; }
+	.g-3 { min-width:5px; max-width:310px; }
+	.b-3 { margin:5px; }
+	.g-4 { margin:5px;  }
+	@media only screen and (max-width: 480px) {
+		.g-col, .g-dyn, .g-single { width:100%; margin-left:0; margin-right:0; }
+	}
+</style>
+<!-- /AdRotate CSS -->
+
+<style>.elp_form_message.success { color: #008000;font-weight: bold; } .elp_form_message.error { color: #ff0000; } .elp_form_message.boterror { color: #ff0000; } </style>        <style type="text/css" id="pf-main-css">
+            
+				@media screen {
+					.printfriendly {
+						z-index: 1000; position: relative
+					}
+					.printfriendly a, .printfriendly a:link, .printfriendly a:visited, .printfriendly a:hover, .printfriendly a:active {
+						font-weight: 600;
+						cursor: pointer;
+						text-decoration: none;
+						border: none;
+						-webkit-box-shadow: none;
+						-moz-box-shadow: none;
+						box-shadow: none;
+						outline:none;
+						font-size: 14px !important;
+						color: #6D9F00 !important;
+					}
+					.printfriendly.pf-alignleft {
+						float: left;
+					}
+					.printfriendly.pf-alignright {
+						float: right;
+					}
+					.printfriendly.pf-aligncenter {
+						justify-content: center;
+						display: flex; align-items: center;
+					}
+				}
+				
+				.pf-button-img {
+					border: none;
+					-webkit-box-shadow: none; 
+					-moz-box-shadow: none; 
+					box-shadow: none; 
+					padding: 0; 
+					margin: 0;
+					display: inline; 
+					vertical-align: middle;
+				}
+			  
+				img.pf-button-img + .pf-button-text {
+					margin-left: 6px;
+				}
+
+				@media print {
+					.printfriendly {
+						display: none;
+					}
+				}
+				        </style>
+
+            
+        <style type="text/css" id="pf-excerpt-styles">
+          .pf-button.pf-button-excerpt {
+              display: none;
+           }
+        </style>
+
+            	<style>img#wpstats{display:none}</style>
+		<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Theatre Review: ‘A Raisin in the Sun’ at Arena Stage" />
+<meta property="og:url" content="https://mdtheatreguide.com/2017/04/theatre-review-a-raisin-in-the-sun-at-arena-stage/" />
+<meta property="og:description" content="Arena Stage’s production of “A Raisin in the Sun,” directed by Tazewell Thompson brings new life to an old classic. Set in the 1950s, “A Raisin in the Sun” explores themes of hope, freedom and the …" />
+<meta property="article:published_time" content="2017-04-09T02:17:00+00:00" />
+<meta property="article:modified_time" content="2017-04-09T03:27:13+00:00" />
+<meta property="og:site_name" content="Maryland Theatre Guide" />
+<meta property="og:image" content="https://mdtheatreguide.com/wp-content/uploads/2017/04/lores_production-raisin_04.jpg" />
+<meta property="og:image:width" content="550" />
+<meta property="og:image:height" content="366" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@MDTheatreGuide" />
+<meta name="twitter:text:title" content="Theatre Review: ‘A Raisin in the Sun’ at Arena Stage" />
+<meta name="twitter:image" content="https://mdtheatreguide.com/wp-content/uploads/2017/04/lores_production-raisin_04.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<style type="text/css" title="dynamic-css" class="options-output">body{color:#353535;}a, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover,
+.news-ticker li a:hover, .mom-post-meta a:hover, .news-box .older-articles ul li a:hover,
+.news-box .nb1-older-articles ul li a:hover, .mom-login-widget .lw-user-info a:hover strong,
+.mpsw-slider ul.slides li .slide-caption:hover, .tagcloud a:hover, .mom-recent-comments .author_comment h4 span a:hover,
+.widget .twiter-list ul.twiter-buttons li a:hover, .copyrights-text a:hover, ul.main-menu li.mom_mega .mega_col_title  a:hover,
+#navigation .main-menu > li .cats-mega-wrap .subcat .mom-cat-latest li a:hover,
+#navigation .main-menu > li .cats-mega-wrap .subcat .mom-cat-latest .view_all_posts:hover,
+.base-box .read-more-link, .widget ul li a:hover, .main_tabs .tabs a.current, .button:hover,
+.weather-widget .next-days .day-summary .d-date span.dn, .np-posts ul li .details .link:hover,
+#comments .single-comment .comment-content .comment-reply-link:hover, #comments .single-comment .comment-content .comment-edit-link:hover,
+.single-author-box .articles-count, .star-rating, .blog-post .bp-head .bp-meta a:hover, ul.main-menu > li:not(.mom_mega) ul.sub-menu li a:hover,
+.not-found-wrap .ops, #bbpress-forums a,
+#navigation .main-menu > li:hover > a, #navigation .main-menu > li.current-menu-item > a, #navigation .main-menu > li.current-menu-ancestor > a,
+#navigation .main-menu > li:hover > a:before, #navigation .main-menu > li.current-menu-item > a:before, #navigation .main-menu > li.current-menu-ancestor > a:before,
+#navigation ul.device-menu li.dm-active > a, #navigation .device-menu li.dm-active > .responsive-caret, .widget li:hover .cat_num, .news-ticker li i, .mom_breadcrumb .sep, .scrollToTop:hover,
+ul.products li .mom_product_thumbnail .mom_woo_cart_bt .button:hover, .main_tabs .tabs li.active > a, .toggle_active .toggle_icon:before, #navigation .nav-button.active, .mom-main-color, .mom-main-color a,
+#buddypress div#item-header div#item-meta a, #buddypress div#subnav.item-list-tabs ul li.selected a, #buddypress div#subnav.item-list-tabs ul li.current a, #buddypress div.item-list-tabs ul li span, #buddypress div#object-nav.item-list-tabs ul li.selected a, #buddypress div#object-nav.item-list-tabs ul li.current a, .mom_bp_tabbed_widgets .main_tabs .tabs a.selected, #buddypress div.activity-meta a.button, .generic-button a, .top_banner a{color:#c11b17;}.mom-social-icons li a.vector_icon:hover, .owl-dot.active span, .feature-slider .fs-nav .selected, #navigation .nav-button.nav-cart span.numofitems{background:#c11b17;}#comments .single-comment .comment-content .comment-reply-link:hover, #comments .single-comment .comment-content .comment-edit-link:hover, .post.sticky{border-color:#c11b17;}{color:#eac117;}.topbar, .copyrights-area, .topbar .top-nav > li ul.sub-menu li a:hover{background-color:#eac117;}.topbar, .copyrights-area, .topbar .top-nav li a, .copyrights-text, .footer_menu li a{color:#000000;}{color:#010051;}.mom-social-icons li a.vector_icon{background-color:#010051;}.header{background-color:#010051;}{color:#c11b17;}.breaking-news .bn-title{background-color:#c11b17;}.breaking-news .bn-title:after{border-left-color:#c11b17;}body.rtl .breaking-news .bn-title:after{border-right-color:#c11b17;}.mom-post-meta, .mom-post-meta a, .blog-post .bp-head .bp-meta, .blog-post .bp-head .bp-meta a, .bbp-reply-post-date, .news-box .nb-item-meta a, .widget ul.twiter-list > li time, .mom-login-widget .lw-user-info a:first-child, .mom-recent-comments .author_comment h4 time, .mom-recent-comments .author_comment h4 span a{color:#000000;}{color:#010051;}#footer{background-color:#010051;}</style><style type="text/css">
+    
+.header > .inner, .header .logo {
+line-height: 100px;
+height: 100px;
+}
+.news-box .nb-item-meta a:hover {
+    color: #c11b17 !important;
+}
+/* Category background */
+.main_container {
+    max-width: none !important;
+    width: auto !important;
+}</style>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>    </head>
+    <body class="post-template-default single single-post postid-161196 single-format-standard both-sidebars-all both-sidebars singular both_sidebars_same_width navigation_highlight_ancestor ticker_has_live_time time_in_twelve_format both-sides-true wpb-js-composer js-comp-ver-6.10.0 vc_responsive" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+    
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <div class="boxed-wrap clearfix">
+	    <div id="header-wrapper">
+                         <div class="topbar">
+  <div class="inner">
+            <div class="top-left-content">
+                 			     <ul id="menu-secondary-menu" class="top-nav mom_visibility_desktop"><li id="menu-item-39945" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-39945"><a href="https://mdtheatreguide.com/">Home</a></li>
+<li id="menu-item-39946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39946"><a href="https://mdtheatreguide.com/about-us/">About Us</a></li>
+<li id="menu-item-154278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154278"><a href="https://mdtheatreguide.com/write-for-us/">Write for Us</a></li>
+<li id="menu-item-39947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39947"><a href="https://mdtheatreguide.com/advertising/">Advertising with MDTG</a></li>
+<li id="menu-item-39948" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39948"><a href="https://mdtheatreguide.com/contact-us/">Contact Us</a></li>
+</ul>
+     			     <div class="mom_visibility_device device-top-menu-wrap">
+			      <div class="top-menu-holder"><i class="fa-icon-reorder mh-icon"></i></div>
+			      <ul id="menu-secondary-menu-1" class="device-top-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-39945"><a href="https://mdtheatreguide.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39946"><a href="https://mdtheatreguide.com/about-us/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154278"><a href="https://mdtheatreguide.com/write-for-us/">Write for Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39947"><a href="https://mdtheatreguide.com/advertising/">Advertising with MDTG</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39948"><a href="https://mdtheatreguide.com/contact-us/">Contact Us</a></li>
+</ul>			     </div>
+
+                        </div> <!--tb left-->
+        <div class="top-right-content">
+            		    <ul class="mom-social-icons">
+                    <li class="twitter"><a target="_blank" class="vector_icon" href="https://twitter.com/MDTheatreGuide"><i class="fa-icon-twitter"></i></a></li>
+        
+                <li class="facebook"><a target="_blank" class="vector_icon" href="https://www.facebook.com/MDTheatreGuide/"><i class="fa-icon-facebook "></i></a></li>        
+        
+        
+        
+                        <li class="youtube"><a target="_blank" class="vector_icon" href="https://www.youtube.com/user/mdtheatreguide/feed"><i class="fa-icon-youtube"></i></a></li>
+        
+        
+        
+        
+
+        
+
+        
+                                     <li class="rss"><a target="_blank" class="vector_icon" href="https://mdtheatreguide.com/feed/"><i class="fa-icon-rss"></i></a></li>
+        	
+	    </ul>
+                    </div> <!--tb right-->
+</div>
+ </div> <!--topbar-->
+             <header class="header " itemscope="itemscope" itemtype="http://schema.org/WPHeader" role="banner">
+                <div class="inner">
+						                    <div class="logo">
+					                    <a href="https://mdtheatreguide.com">
+		                                                    <img src="https://mdtheatreguide.com/wp-content/uploads/2015/07/MDTheatreguide-412x78.png" alt="Maryland Theatre Guide" width="412" height="78" />
+                                                                                               <img class="mom_retina_logo" src="https://mdtheatreguide.com/wp-content/uploads/2015/07/MDTheatreguide-412x78.png" width="412" height="78" alt="Maryland Theatre Guide" />
+                                                		                    </a>
+
+					
+                    </div>
+                                        <div class="header-right">
+                                  		<script type="text/javascript">
+		jQuery(document).ready(function($) {
+			$('.e3lanat-rotator-id-861 .mom-e3lanat-inner').imagesLoaded( function() {
+			jQuery('.e3lanat-rotator-id-861 .mom-e3lanat-inner').boxSlider({
+				autoScroll: true,
+				timeout: 5000,
+				speed: 800,
+				effect: 'scrollVert3d',
+				pauseOnHover: true,
+				next:'.e3lanat-rotator-id-861 .adr-next',
+				prev: '.e3lanat-rotator-id-861 .adr-prev'
+				
+			});
+
+			});
+
+		});
+	</script>
+		<div class="mom-e3lanat-wrap  ">
+	<div class="mom-e3lanat e3lanat-layout-rotator e3lanat-rotator-id-861" style="width:728px; height:90px;">
+		<div class="mom-e3lanat-inner">
+		
+				<div class="mom-e3lan" data-id="218392" style=" ">
+					<a href="https://mdtheatreguide.com/advertising/" target="_blank"><img src="https://mdtheatreguide.com/wp-content/uploads/2020/12/Advertise-with-MDTG-BannerB-1.jpg" alt="  Advertise with MDTG BannerB" width="728" height="90"></a>
+		 	</div><!--mom ad-->
+					<div class="mom-e3lan" data-id="218392" style=" ">
+					<a href="https://app.arts-people.com/index.php?ticketing=tap01&pr=1" target="_blank"><img src="https://mdtheatreguide.com/wp-content/uploads/2020/12/ArlingtonPlayers-SinginRain-728-x-90.jpg" alt="ArlingtonPlayers SinginRain 728 x 90" width="728" height="90"></a>
+		 	</div><!--mom ad-->
+					<div class="mom-e3lan" data-id="218392" style=" ">
+					<a href="https://thecolonialplayers.org/" target="_blank"><img src="https://mdtheatreguide.com/wp-content/uploads/2020/12/Colonial-Players-Together728-x-90.jpg" alt="Colonial Players Together728 x 90" width="728" height="90"></a>
+		 	</div><!--mom ad-->
+					<div class="mom-e3lan" data-id="218392" style=" ">
+					<a href="https://www.atlasarts.org/events/expats-theatre-the-body-of-a-woman-as-a-battlefield/" target="_blank"><img src="https://mdtheatreguide.com/wp-content/uploads/2020/12/ExPats-Body-Battlefield-728x90Ad-4.jpg" alt="ExPats Body Battlefield 728x90Ad-4" width="728" height="90"></a>
+		 	</div><!--mom ad-->
+					<div class="mom-e3lan" data-id="218392" style=" ">
+					<a href="https://www.gaithersburgmd.gov/recreation/performing-arts/theater/william-shakespeare-s-long-lost-first-play" target="_blank"><img src="https://mdtheatreguide.com/wp-content/uploads/2023/03/Arts-Barn-2023-WILLIAM-SHAKESPEARE-Lost-First-Play-720x90-1.jpg" alt="Arts Barn 2023-WILLIAM-SHAKESPEARE Lost First Play 720x90" width="728" height="90"></a>
+		 	</div><!--mom ad-->
+					<div class="mom-e3lan" data-id="218392" style=" ">
+					<a href="https://www.gaithersburgmd.gov/recreation/performing-arts/theater/the-magic-duel" target="_blank"><img src="https://mdtheatreguide.com/wp-content/uploads/2020/12/Arts-Barn-MagicDuel_-Digital-Ad_720x90_v2.jpg" alt="Arts Barn MagicDuel_-Digital-Ad_300x250_v2" width="728" height="90"></a>
+		 	</div><!--mom ad-->
+			</div>
+	</div>	<!--Mom ads-->
+	</div>
+                    </div> <!--header right-->
+                    
+                <div class="clear"></div>
+                </div>
+            </header>
+	    	    </div> <!--header wrap-->
+                                    <nav id="navigation" itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" role="navigation" class="dd-effect-slide ">
+                <div class="navigation-inner">
+                <div class="inner">
+                                                                <ul id="menu-main-menu" class="main-menu mom_visibility_desktop"><li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="https://mdtheatreguide.com/theatre-guide/">Theatre Guide</a>
+<ul class="sub-menu ">
+	<li id="menu-item-62192" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item active menu-item-depth-1"><a href="https://mdtheatreguide.com/theatre-guide/western-md/">Western MD</a></li>
+	<li id="menu-item-62199" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/theatre-guide/washington-dc-metro-area/">DC Metro Area</a></li>
+	<li id="menu-item-62204" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/theatre-guide/greater-baltimore-area/">Greater Baltimore Area</a></li>
+	<li id="menu-item-62210" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/theatre-guide/southern-md/">Southern MD</a></li>
+	<li id="menu-item-62217" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/theatre-guide/eastern-shore/">Eastern Shore</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-155460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="https://mdtheatreguide.com/whats-playing/">What&#8217;s Playing</a>
+<ul class="sub-menu ">
+	<li id="menu-item-198103" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item active menu-item-depth-1"><a href="https://mdtheatreguide.com/whats-playing/">Events</a></li>
+	<li id="menu-item-208545" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/submit-event/">Submit Event</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-91734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="https://mdtheatreguide.com/half-price-tickets/">DISCOUNT GOLDSTAR TICKETS</a>
+<ul class="sub-menu ">
+	<li id="menu-item-91736" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item active menu-item-depth-1"><a href="https://mdtheatreguide.com/half-price-tickets/baltimore-area-goldstar-tickets/">Baltimore Area Goldstar Tickets</a></li>
+	<li id="menu-item-91735" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/half-price-tickets/dc-metro-area-goldstar-tickets/">DC Metro Area Goldstar Tickets</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-74" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="https://mdtheatreguide.com/category/reviews/">Reviews</a>
+<ul class="sub-menu ">
+	<li id="menu-item-150837" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item active menu-item-depth-1"><a href="https://mdtheatreguide.com/category/reviews/western-md-reviews/">Western MD</a></li>
+	<li id="menu-item-87279" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/reviews/dc-metro-area-reviews/">DC Metro Area</a></li>
+	<li id="menu-item-87281" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/reviews/greater-baltimore-area-reviews/">Greater Baltimore Area</a></li>
+	<li id="menu-item-150836" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/reviews/southern-md-reviews/">Southern MD</a></li>
+	<li id="menu-item-150835" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/reviews/eastern-shore-reviews/">Eastern Shore</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-7112" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="https://mdtheatreguide.com/category/column/">Columns</a>
+<ul class="sub-menu ">
+	<li id="menu-item-161554" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item active menu-item-depth-1"><a href="https://mdtheatreguide.com/category/column/quick-5/">A Quick 5</a></li>
+	<li id="menu-item-147783" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/column/educational/">Educational</a></li>
+	<li id="menu-item-197522" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/column/podcast/">Podcast</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-197523" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-2"><a href="https://mdtheatreguide.com/category/column/podcast/">Podcast Episodes</a></li>
+		<li id="menu-item-197520" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="https://mdtheatreguide.com/about-podcast/">About Podcast</a></li>
+		<li id="menu-item-197521" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="https://mdtheatreguide.com/about-podcast/podcast-guest-guidelines/">Podcast Guest Guidelines</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-24704" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/column/top-5-shows-of-the-week/">Top 5 Shows of the Week</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-87508" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="https://mdtheatreguide.com/category/news/">News</a>
+<ul class="sub-menu ">
+	<li id="menu-item-150840" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item active menu-item-depth-1"><a href="https://mdtheatreguide.com/category/news/western-md-news/">Western MD</a></li>
+	<li id="menu-item-87509" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/news/dc-metro-area-news/">DC Metro Area</a></li>
+	<li id="menu-item-44325" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/news/greater-baltimore-area-news/">Greater Baltimore Area</a></li>
+	<li id="menu-item-150839" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/news/southern-md-news/">Southern MD</a></li>
+	<li id="menu-item-150838" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/news/eastern-shore-news/">Eastern Shore</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+</ul>                                                                <div class="device-menu-wrap mom_visibility_device">
+                        <div id="menu-holder" class="device-menu-holder">
+                            <i class="fa-icon-align-justify mh-icon"></i> <span class="the_menu_holder_area"><i class="dmh-icon"></i>Menu</span><i class="mh-caret"></i>
+                        </div>
+                        <ul id="menu-main-menu-1" class="device-menu mom_visibility_device"><li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="https://mdtheatreguide.com/theatre-guide/">Theatre Guide</a>
+<ul class="sub-menu ">
+	<li id="menu-item-62192" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item active menu-item-depth-1"><a href="https://mdtheatreguide.com/theatre-guide/western-md/">Western MD</a></li>
+	<li id="menu-item-62199" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/theatre-guide/washington-dc-metro-area/">DC Metro Area</a></li>
+	<li id="menu-item-62204" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/theatre-guide/greater-baltimore-area/">Greater Baltimore Area</a></li>
+	<li id="menu-item-62210" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/theatre-guide/southern-md/">Southern MD</a></li>
+	<li id="menu-item-62217" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/theatre-guide/eastern-shore/">Eastern Shore</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-155460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="https://mdtheatreguide.com/whats-playing/">What&#8217;s Playing</a>
+<ul class="sub-menu ">
+	<li id="menu-item-198103" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item active menu-item-depth-1"><a href="https://mdtheatreguide.com/whats-playing/">Events</a></li>
+	<li id="menu-item-208545" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/submit-event/">Submit Event</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-91734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="https://mdtheatreguide.com/half-price-tickets/">DISCOUNT GOLDSTAR TICKETS</a>
+<ul class="sub-menu ">
+	<li id="menu-item-91736" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item active menu-item-depth-1"><a href="https://mdtheatreguide.com/half-price-tickets/baltimore-area-goldstar-tickets/">Baltimore Area Goldstar Tickets</a></li>
+	<li id="menu-item-91735" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/half-price-tickets/dc-metro-area-goldstar-tickets/">DC Metro Area Goldstar Tickets</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-74" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="https://mdtheatreguide.com/category/reviews/">Reviews</a>
+<ul class="sub-menu ">
+	<li id="menu-item-150837" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item active menu-item-depth-1"><a href="https://mdtheatreguide.com/category/reviews/western-md-reviews/">Western MD</a></li>
+	<li id="menu-item-87279" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/reviews/dc-metro-area-reviews/">DC Metro Area</a></li>
+	<li id="menu-item-87281" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/reviews/greater-baltimore-area-reviews/">Greater Baltimore Area</a></li>
+	<li id="menu-item-150836" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/reviews/southern-md-reviews/">Southern MD</a></li>
+	<li id="menu-item-150835" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/reviews/eastern-shore-reviews/">Eastern Shore</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-7112" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="https://mdtheatreguide.com/category/column/">Columns</a>
+<ul class="sub-menu ">
+	<li id="menu-item-161554" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item active menu-item-depth-1"><a href="https://mdtheatreguide.com/category/column/quick-5/">A Quick 5</a></li>
+	<li id="menu-item-147783" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/column/educational/">Educational</a></li>
+	<li id="menu-item-197522" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/column/podcast/">Podcast</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-197523" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-2"><a href="https://mdtheatreguide.com/category/column/podcast/">Podcast Episodes</a></li>
+		<li id="menu-item-197520" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="https://mdtheatreguide.com/about-podcast/">About Podcast</a></li>
+		<li id="menu-item-197521" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="https://mdtheatreguide.com/about-podcast/podcast-guest-guidelines/">Podcast Guest Guidelines</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-24704" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/column/top-5-shows-of-the-week/">Top 5 Shows of the Week</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-87508" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="https://mdtheatreguide.com/category/news/">News</a>
+<ul class="sub-menu ">
+	<li id="menu-item-150840" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item active menu-item-depth-1"><a href="https://mdtheatreguide.com/category/news/western-md-news/">Western MD</a></li>
+	<li id="menu-item-87509" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/news/dc-metro-area-news/">DC Metro Area</a></li>
+	<li id="menu-item-44325" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/news/greater-baltimore-area-news/">Greater Baltimore Area</a></li>
+	<li id="menu-item-150839" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/news/southern-md-news/">Southern MD</a></li>
+	<li id="menu-item-150838" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-1"><a href="https://mdtheatreguide.com/category/news/eastern-shore-news/">Eastern Shore</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+</ul>                        </div>
+                                            		    <div class="nav-buttons">
+                                        		                        <span class="nav-button nav-search">
+                        <i class="fa-icon-search"></i>
+                    </span>
+                    <div class="nb-inner-wrap search-wrap border-box">
+                        <div class="nb-inner sw-inner">
+                        <div class="search-form mom-search-form">
+                            <form method="get" action="https://mdtheatreguide.com">
+                                <input class="sf" type="text" placeholder="Search ..." autocomplete="off" name="s">
+                                <button class="button" type="submit"><i class="fa-icon-search"></i></button>
+                            </form>
+                            <span class="sf-loading"><img src="https://mdtheatreguide.com/wp-content/themes/goodnews5/images/ajax-search-nav.gif" alt="loading..." width="16" height="16"></span>
+                        </div>
+                    <div class="ajax_search_results">
+                    </div> <!--ajax search results-->
+                    </div> <!--sw inner-->
+                    </div> <!--search wrap-->
+                    
+        		    </div> <!--nav-buttons-->
+
+                </div>
+                </div> <!--nav inner-->
+            </nav> <!--Navigation-->
+            	    <div class="boxed-content-wrapper clearfix">
+                        <div class="nav-shaddow"></div>
+                         <div style="margin-top:-17px; margin-bottom:20px;"></div>
+            
+            <div class="inner">
+                        
+        <div class="breaking-news">
+    <div class="the_ticker" >
+    <div class="bn-title"><span>LATEST POSTS</span></div>
+    <div class="news-ticker " data-timeout="5000">
+        <ul>
+            <li><i class="fa-icon-double-angle-right"></i><a href="https://mdtheatreguide.com/2023/04/theatre-review-unseen-by-mosaic-theater-company-at-atlas-performing-arts-center/">Theatre Review: &#8216;Unseen&#8217; by Mosaic Theater Company at Atlas Performing Arts Center</a></li>
+            <li><i class="fa-icon-double-angle-right"></i><a href="https://mdtheatreguide.com/2023/04/news-class-theatre-of-maryland-announces-2023-2024-season/">News: Classic Theatre of Maryland Announces 2023-2024 Season</a></li>
+            <li><i class="fa-icon-double-angle-right"></i><a href="https://mdtheatreguide.com/2023/04/theatre-review-the-nosebleed-at-woolly-mammoth-theatre-company/">Theatre Review: &#8216;The Nosebleed&#8217; at Woolly Mammoth Theatre Company</a></li>
+            <li><i class="fa-icon-double-angle-right"></i><a href="https://mdtheatreguide.com/2023/04/news-broadway-at-the-national-announces-2023-2024-season/">News: Broadway at the National Announces 2023/2024 Season</a></li>
+            <li><i class="fa-icon-double-angle-right"></i><a href="https://mdtheatreguide.com/2023/04/news-gala-hispanic-theatre-presents-noche-de-estrellas-2023/">News: GALA Hispanic Theatre presents Noche de Estrellas 2023</a></li>
+            <li><i class="fa-icon-double-angle-right"></i><a href="https://mdtheatreguide.com/2023/04/concert-review-leslie-odom-jr-with-the-baltimore-symphony-orchestra/">Concert Review: Leslie Odom, Jr. with the Baltimore Symphony Orchestra</a></li>
+            <li><i class="fa-icon-double-angle-right"></i><a href="https://mdtheatreguide.com/2023/04/theatre-review-the-jungle-at-shakespeare-theatre-company/">Theatre Review: &#8216;The Jungle&#8217; at Shakespeare Theatre Company</a></li>
+            <li><i class="fa-icon-double-angle-right"></i><a href="https://mdtheatreguide.com/2023/04/review-maryland-theatre-collectives-production-of-disneys-freaky-friday-the-musical-at-chesapeake-arts-center/">Review: Maryland Theatre Collective&#8217;s Production of &#8216;Disney&#8217;s Freaky Friday The Musical&#8217; at Chesapeake Arts Center</a></li>
+            <li><i class="fa-icon-double-angle-right"></i><a href="https://mdtheatreguide.com/2023/04/theatre-review-the-mountaintop-at-vagabond-players/">Theatre Review: &#8216;The Mountaintop&#8217; at Vagabond Players</a></li>
+            <li><i class="fa-icon-double-angle-right"></i><a href="https://mdtheatreguide.com/2023/03/opera-review-handels-serse-presented-by-catholic-university-of-americas-rome-school-of-music-drama-and-art/">Opera Review: Handel&#8217;s &#8216;Serse&#8217; presented by Catholic University of America&#8217;s Rome School of Music, Drama, and Art</a></li>
+        </ul>
+    </div> <!--news ticker-->
+    </div>
+        <span class="current_time"><span></span> </span>
+        </div> <!--breaking news-->
+            </div>
+
+    <div class="inner">
+        
+                            <div class="main_container">
+           <div class="main-col">
+                                <div class="category-title">
+                                        </div>
+                                        <div class="base-box blog-post p-single bp-horizontal-share post-161196 post type-post status-publish format-standard has-post-thumbnail category-dc-metro-area-reviews category-reviews tag-a-raisin-in-the-sun tag-arena-stage">
+<div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+    <meta itemprop="url" content="https://mdtheatreguide.com/wp-content/uploads/2017/04/lores_production-raisin_04-250x166.jpg">
+    <meta itemprop="width" content="300">
+    <meta itemprop="height" content="350">
+  </div>
+  <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+    <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+      <meta itemprop="url" content="https://mdtheatreguide.com/wp-content/uploads/2015/07/MDTheatreguide-412x78.png">
+      <meta itemprop="width" content="412">
+      <meta itemprop="height" content="78">
+    </div>
+        <meta itemprop="name" content="Maryland Theatre Guide">
+  </div>
+  <meta itemprop="datePublished" content="2017-04-08T22:17:00-04:00"/>
+  <meta itemprop="dateModified" content="2017-04-08T23:27:13-04:00"/>
+<h1 class="post-tile entry-title" itemprop="headline">Theatre Review: ‘A Raisin in the Sun’ at Arena Stage</h1>
+<div class="mom-post-meta single-post-meta"><span class="author vcard">Posted By: <span class="fn" itemprop="name"><a href="https://mdtheatreguide.com/author/mmaterise/">Maria Elharaoui</a></span></span><span>on: <time datetime="2017-04-08T22:17:00-04:00" class="updated">April 08, 2017</time></span><div class="post-tools"><a href="javascript:window.print()" rel="nofollow" class="print"><i class="fa-icon-print"> </i>Print</a><a href="mailto:?subject=Theatre Review: ‘A Raisin in the Sun’ at Arena Stage&body=Theatre Review: ‘A Raisin in the Sun’ at Arena Stage https://mdtheatreguide.com/2017/04/theatre-review-a-raisin-in-the-sun-at-arena-stage/" rel="nofollow" class="email"><i class="fa-icon-envelope"> </i>Email</a></div></div><div class="entry-content">
+            <div class="pf-content"><div id="attachment_161197" style="width: 560px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-161197" decoding="async" class="wp-image-161197 size-full" src="https://mdtheatreguide.com/wp-content/uploads/2017/04/lores_production-raisin_04.jpg" alt="" width="550" height="366" srcset="https://mdtheatreguide.com/wp-content/uploads/2017/04/lores_production-raisin_04.jpg 550w, https://mdtheatreguide.com/wp-content/uploads/2017/04/lores_production-raisin_04-250x166.jpg 250w, https://mdtheatreguide.com/wp-content/uploads/2017/04/lores_production-raisin_04-768x511.jpg 768w, https://mdtheatreguide.com/wp-content/uploads/2017/04/lores_production-raisin_04-500x333.jpg 500w, https://mdtheatreguide.com/wp-content/uploads/2017/04/lores_production-raisin_04-90x60.jpg 90w, https://mdtheatreguide.com/wp-content/uploads/2017/04/lores_production-raisin_04-180x120.jpg 180w, https://mdtheatreguide.com/wp-content/uploads/2017/04/lores_production-raisin_04-95x64.jpg 95w" sizes="(max-width: 550px) 100vw, 550px" /><p id="caption-attachment-161197" class="wp-caption-text">Will Cobbs as Walter Lee Younger and Jeremiah Hasty as Travis Younger in A Raisin in the Sun at Arena Stage at the Mead Center for American Theater, running March 31-May 7, 2017. Photo by C. Stanley Photography.</p></div>
+<p><span style="font-weight: 400;">Arena Stage’s production of “A Raisin in the Sun,” directed by Tazewell Thompson brings new life to an old classic. Set in the 1950s, “A Raisin in the Sun” explores themes of hope, freedom and the American dream, themes that are still relevant to this day.</span></p>
+<p><span style="font-weight: 400;">There’s no question why Lorraine Hansberry’s work is considered a masterpiece. She puts the spotlight on the African-American family life and portrays their struggles in an honest and realistic way.</span></p>
+<blockquote><p><strong>The entire cast delivers some of the greatest acting I have witnessed in the DC Metro area, and this is where “A Raisin in the Sun” truly shines.</strong></p></blockquote>
+<p><span style="font-weight: 400;">“A Raisin in the Sun” is the story of the Younger family, who live on the south side of Chicago in a tiny apartment. The family, led by matriarch Lena (Lizan Mitchell), includes her son Walter Lee (Will Cobbs), his wife Ruth (Dawn Ursula), their son Travis (Jeremiah Hasty) and Walter’s sister Benethea (Joy Jones).</span></p>
+<p><span style="font-weight: 400;">After Lena’s husband and Walter Lee’s and Beneatha’s father dies, the family patiently waits for the insurance check to come in and dreams about how the money will change each of their lives.</span></p>
+<p><span style="font-weight: 400;">The play opens with Ruth bustling around the family’s apartment in the early hours of the morning. Right from the start and with such subtle movements, Ursula portrays Ruth’s exhaustion and sorrow. As the play goes on, this sorrow underlays much of Ursula’s performance, making Ruth a complicated and interesting character. </span></p>
+<p><span style="font-weight: 400;">Ursula is not alone in her powerful and balanced acting. The entire cast delivers some of the greatest acting I have witnessed in the DC Metro area, and this is where “A Raisin in the Sun” truly shines. Cobbs shows Walter’s manic side effectively, without veering too far in that direction. Jones makes Benethea’s arrogance and know-it-all quality clear but still makes her likable. </span></p>
+<p><span style="font-weight: 400;">But the true standout of the show was Mitchell as Lena. In the final scene, as she looks at the carpet in the apartment she has lived in for years and becomes emotional, that look is all we need to know what she is feeling. Mitchell makes Lena’s pain so powerful and apparent through such subtle acting.</span></p>
+<p><span style="font-weight: 400;">Arena Stage offers a unique theatre experience with a 360-degree stage, with the audience seated around all sides. This presents a challenge for the actors to ensure no side of the audience feels neglected. While the actors were not always facing my direction when they were performing, it never felt like I was missing out or that my view was blocked. The staging was so carefully done and turned a difficult stage into an interesting one.</span></p>
+<p><span style="font-weight: 400;">The stage was transformed into the Younger’s tiny apartment, mainly the living room area and the kitchen. There were so many little touches that made the set feel homey and just like a family’s old apartment. With running water and a stove to actually cook eggs, the set was functional and the actors didn’t have to play at living in this apartment. Instead, that’s what they actually did.</span></p>
+<p><span style="font-weight: 400;">The furniture used looked old-fashioned and worn out, just like how I would imagine the Youngers’ furniture to be. Even the carpet, which Lena often fixates, looks faded and shabby.</span></p>
+<p><span style="font-weight: 400;">“A Raisin in the Sun” is an important piece of theatre that still resonates today. Though it deals with an African-American family in the 1950s, their struggles, hopes and dreams are still relatable to audiences today.</span></p>
+<p><span style="font-weight: 400;">In a world where racial prejudice and inequality still exists, the Youngers remind us that we all dream, we all hope and we all wish for a better life.</span></p>
+<p><span style="font-weight: 400;">Running Time: 2 hours and 45 minutes with a 15-minute intermission.</span></p>
+<p><span style="font-weight: 400;">“A Raisin in the Sun” plays at Arena Stage in Washington, DC through May 7, 2017. For more information, click </span><a href="https://www.arenastage.org/shows-tickets/the-season/productions/a-raisin-in-the-sun/" target="_blank"><span style="font-weight: 400;">here</span></a><span style="font-weight: 400;">.</span></p>
+<div class="printfriendly pf-button pf-button-content pf-aligncenter"><a href="#" rel="nofollow" onClick="window.print(); return false;" title="Printer Friendly, PDF & Email"><img class="pf-button-img" src="https://cdn.printfriendly.com/buttons/printfriendly-button.png" alt="Print Friendly, PDF & Email" style="width: 112px;height: 24px;"  /></a></div></div>      
+
+    
+       <div class="mom-social-share ss-horizontal border-box php-share" data-id="161196">
+                    <div class="ss-icon facebook">
+                <a href="#" onclick="window.open('http://www.facebook.com/sharer/sharer.php?u=https://mdtheatreguide.com/2017/04/theatre-review-a-raisin-in-the-sun-at-arena-stage/', 'Share This', 'menubar=no,toolbar=no,resizable=no,scrollbars=no, width=600,height=455');"><span class="icon"><i class="fa-icon-facebook"></i>Share</span></a>
+                <span class="count">0</span>
+            </div> <!--icon-->
+        
+                    <div class="ss-icon twitter">
+                <a href="http://twitter.com/share?text=Theatre Review: ‘A Raisin in the Sun’ at Arena Stage&url=https://mdtheatreguide.com/2017/04/theatre-review-a-raisin-in-the-sun-at-arena-stage/" onclick="window.open(this.href, 'Post this on twitter', 'menubar=no,toolbar=no,resizable=no,scrollbars=no,width=600,height=455');"><span class="icon"><i class="fa-icon-twitter"></i>Tweet</span></a>
+            </div> <!--icon-->
+                                    <div class="ss-icon linkedin">
+                <a href="#"
+onclick="javascript:window.open('http://www.linkedin.com/shareArticle?mini=true&url=https://mdtheatreguide.com/2017/04/theatre-review-a-raisin-in-the-sun-at-arena-stage/&title=Theatre Review: ‘A Raisin in the Sun’ at Arena Stage&source=https%3A%2F%2Fmdtheatreguide.com', '', 'menubar=no,toolbar=no,resizable=no,scrollbars=no,height=455,width=600');return false;"><span class="icon"><i class="fa-icon-linkedin"></i>Share</span></a>
+                <!-- <span class="count"></span> -->
+            </div> <!--icon-->
+                            <div class="ss-icon pinterest">
+                <a href="http://pinterest.com/pin/create/bookmarklet/?media=https://mdtheatreguide.com/wp-content/uploads/2017/04/lores_production-raisin_04-500x333.jpg&amp;
+url=https://mdtheatreguide.com/2017/04/theatre-review-a-raisin-in-the-sun-at-arena-stage/&amp;
+is_video=false&amp;description=Theatre Review: ‘A Raisin in the Sun’ at Arena Stage"
+onclick="javascript:window.open(this.href, '_blank', 'menubar=no,toolbar=no,resizable=no,scrollbars=no,height=455,width=600');return false;"><span class="icon"><i class="fa-icon-pinterest"></i>Share</span></a>
+                <!-- <span class="count"></span> -->
+            </div> <!--icon-->
+                            <div class="clear"></div>
+        </div> <!--social share-->
+
+</div> <!-- entry content -->
+</div> <!-- base box -->
+
+            <div class="np-posts">
+                <ul>
+			                    <li class="np-post prev border-box">
+						<div class="post-img">
+                            <a href="https://mdtheatreguide.com/2017/04/theatre-review-chicago-at-the-kennedy-opera-house/"><img src="https://mdtheatreguide.com/wp-content/uploads/2017/04/brandy.jpg" data-hidpi="https://mdtheatreguide.com/wp-content/uploads/2017/04/brandy.jpg" alt="Theatre Review: ‘A Raisin in the Sun’ at Arena Stage"></a>
+                        </div>
+			                        <div class="details has-feature-image">
+                            <a href="https://mdtheatreguide.com/2017/04/theatre-review-chicago-at-the-kennedy-opera-house/" class="link prev"><i class="fa-icon-double-angle-left"></i>Previous</a>
+                            <h3><a href="https://mdtheatreguide.com/2017/04/theatre-review-chicago-at-the-kennedy-opera-house/">Theatre Review: ‘Chicago’ at The Kennedy Opera House</a></h3>
+                        </div>
+                    </li>
+		    		                        <li class="np-post next border-box">
+						<div class="post-img">
+                            <a href="https://mdtheatreguide.com/2017/04/concert-review-berliozs-symphonie-fantastique-with-the-baltimore-symphony-orchestra-at-strathmore-featuring-violinist-ray-chen/"><img src="https://mdtheatreguide.com/wp-content/uploads/2017/04/Ray-Cehn-Credit-Sophie-Zhai2-90x60.jpg" data-hidpi="https://mdtheatreguide.com/wp-content/uploads/2017/04/Ray-Cehn-Credit-Sophie-Zhai2-180x120.jpg" alt="Theatre Review: ‘A Raisin in the Sun’ at Arena Stage"></a>
+                        </div>
+			                        <div class="details has-feature-image">
+                            <a href="https://mdtheatreguide.com/2017/04/concert-review-berliozs-symphonie-fantastique-with-the-baltimore-symphony-orchestra-at-strathmore-featuring-violinist-ray-chen/" class="link next"><i class="fa-icon-double-angle-right alignright"></i>Next</a>
+                            <h3><a href="https://mdtheatreguide.com/2017/04/concert-review-berliozs-symphonie-fantastique-with-the-baltimore-symphony-orchestra-at-strathmore-featuring-violinist-ray-chen/">Concert Review: Berlioz’s “Symphonie fantastique” with the Baltimore Symphony Orchestra at Strathmore, featuring violinist Ray Chen</a></h3>
+                        </div>
+                    </li>
+		                    </ul>
+            </div> <!-- np posts -->
+<h2 class="single-title">About the author</h2>
+            <div class="base-box single-box about-the-author">
+                <div class="author_avatar"></div>
+                <div class="author_desc">
+                    <h3 calss="vcard author"><span class="fn"><a href="https://mdtheatreguide.com/author/mmaterise/">Maria Elharaoui</a></span>  </span></h3>
+        <p>
+		Maria Elharaoui is a marketing copywriter for a staffing agency. She earned her Bachelor's degree in English literature and communication from the State University of New York at Geneseo. Maria has always had a great love for the theatre, and tries to see as many shows as she can in her spare time. Maria lives in Bethesda, Maryland with her husband.	</p>
+                 <div class="mom-socials-icons author-social-icons">
+        <ul>
+                                                                                                   <li class="rss"><a target="_blank" href="https://mdtheatreguide.com/author/mmaterise/feed/"><i class="fa-icon-rss"></i></a></li>
+                                                                                                                                                                        </u>
+
+        <div class="clear"></div>
+    </div>
+
+                </div>
+	            <div class="clear"></div>
+
+            </div>
+
+<div id="comments" class="comments-area">
+
+	
+		
+	
+</div><!-- #comments .comments-area -->
+            </div> <!--main column-->
+                      <div class="sidebar secondary-sidebar" role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+            
+		<div class="widget widget_recent_entries">
+		<div class="widget-head"><h3 class="widget-title"><span>RECENT POSTS</span></h3></div>
+		<ul>
+											<li>
+					<a href="https://mdtheatreguide.com/2023/04/theatre-review-unseen-by-mosaic-theater-company-at-atlas-performing-arts-center/">Theatre Review: &#8216;Unseen&#8217; by Mosaic Theater Company at Atlas Performing Arts Center</a>
+									</li>
+											<li>
+					<a href="https://mdtheatreguide.com/2023/04/news-class-theatre-of-maryland-announces-2023-2024-season/">News: Classic Theatre of Maryland Announces 2023-2024 Season</a>
+									</li>
+											<li>
+					<a href="https://mdtheatreguide.com/2023/04/theatre-review-the-nosebleed-at-woolly-mammoth-theatre-company/">Theatre Review: &#8216;The Nosebleed&#8217; at Woolly Mammoth Theatre Company</a>
+									</li>
+											<li>
+					<a href="https://mdtheatreguide.com/2023/04/news-broadway-at-the-national-announces-2023-2024-season/">News: Broadway at the National Announces 2023/2024 Season</a>
+									</li>
+											<li>
+					<a href="https://mdtheatreguide.com/2023/04/news-gala-hispanic-theatre-presents-noche-de-estrellas-2023/">News: GALA Hispanic Theatre presents Noche de Estrellas 2023</a>
+									</li>
+					</ul>
+
+		</div><div class="widget adrotate_widgets"><div class="widget-head"><h3 class="widget-title"><span>What&#8217;s Playing</span></h3></div><div class="g g-2"><div class="g-col b-2 a-487"><a class="gofollow" data-track="NDg3LDIsMSw2MA==" href="https://www.gaithersburgmd.gov/recreation/performing-arts/theater/the-magic-duel"><img src="https://mdtheatreguide.com/wp-content/uploads/2023/04/Arts-Barn-MagicDuel_-Digital-Ad_300x250_v2.jpg" /></a></div></div><div class="g g-2"><div class="g-col b-2 a-485"><a class="gofollow" data-track="NDg1LDIsMSw2MA==" href="https://fscottfitzgerald.showare.com/eventperformances.asp?evt=155"><img src="https://mdtheatreguide.com/wp-content/uploads/2023/03/FSF-RLT-Stick-Fly-sidebar-ad.jpg" /></a></div></div></div>
+            </div> <!--main sidebar-->
+            <div class="clear"></div>
+            <div class="clear"></div>
+</div> <!--main container-->            
+            <div class="sidebar main-sidebar" role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+            <div class="widget adrotate_widgets"><div class="widget-head"><h3 class="widget-title"><span>What&#8217;s Playing</span></h3></div><div class="g g-3"><div class="g-col b-3 a-484"><a class="gofollow" data-track="NDg0LDMsMSw2MA==" href="https://app.arts-people.com/index.php?ticketing=tap01&pr=1"><img src="https://mdtheatreguide.com/wp-content/uploads/2020/12/ArlingtonPlayers-SinginRain-300x250-1.jpg" /></a></div></div><div class="g g-3"><div class="g-col b-3 a-486"><a class="gofollow" data-track="NDg2LDMsMSw2MA==" href="https://www.gaithersburgmd.gov/recreation/performing-arts/theater/william-shakespeare-s-long-lost-first-play"><img src="https://mdtheatreguide.com/wp-content/uploads/2023/03/2023-WILLIAM-SHAKESPEARE-Long-Lost-Play_300x250.jpg" /></a></div></div></div><div class="widget widget_text elp-widget"><div class="widget-head"><h3 class="widget-title"><span>Subscribe to Newsletter</span></h3></div>				<div class="email_posts_subscribers" style="margin-bottom: var(--global--spacing-unit);">
+			<p>Weekly email with links to latest posts. (Be sure to answer confirmation email.)</p>			<form action="#" method="post" class="elp_form" id="elp_form_1680766355">
+				<p><span class="name">Name</span><br /><input type="text" name="name" id="name" placeholder="Name" value="" maxlength="50" required/></p>				<p><span class="email">Email</span><br /><input type="email" id="email" name="email" value="" placeholder="Email"  maxlength="225" required/></p>								<p style="margin-top:20px;">
+				<input name="submit" id="elp_form_submit_1680766355" value="Submit" type="submit" />
+				</p>
+				<span class="elp_form_spinner" id="elp-loading-image" style="display:none;">
+					<img src="https://mdtheatreguide.com/wp-content/plugins/email-posts-to-subscribers/inc/ajax-loader.gif" />
+				</span>
+				<input name="nonce" id="nonce" value="da6b657b8c" type="hidden"/>
+				<input name="group" id="group" value="" type="hidden"/>
+				<input type="text" style="display:none;" id="email_name" name="email_name" value="" type="hidden"/>
+			</form>	
+			<span class="elp_form_message" id="elp_form_message_1680766355"></span>
+		</div>
+		<br />
+	</div>
+           </div> <!--main sidebar-->
+            <div class="clear"></div>                      </div> <!--main inner-->
+            
+      </div> <!--content boxed wrapper-->
+                        <footer id="footer">
+                <div class="inner">
+	     		<div class="widget widget_media_image"><img width="412" height="78" src="https://mdtheatreguide.com/wp-content/uploads/2015/07/MDTheatreguide-412x78.png" class="image wp-image-146378 aligncenter attachment-full size-full" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://mdtheatreguide.com/wp-content/uploads/2015/07/MDTheatreguide-412x78.png 412w, https://mdtheatreguide.com/wp-content/uploads/2015/07/MDTheatreguide-412x78-250x47.png 250w" sizes="(max-width: 412px) 100vw, 412px" /></div>	    
+        <div class="clear"></div>
+                </div> <!--// footer inner-->
+            </footer> <!--//footer-->
+            <div class="copyrights-area">
+                <div class="inner">
+                    <p class="copyrights-text">Copyright by MD Theatre Guide, LLC.  <a href="https://mdtheatreguide.com/privacy-policy/">Privacy Policy</a> Reprint Policy: Our content may not be reprinted in full. Excerpts may be used if a credit and link is provided to our website.</p>
+                        <ul class="mom-social-icons">
+                    <li class="twitter"><a target="_blank" class="vector_icon" href="https://twitter.com/MDTheatreGuide"><i class="fa-icon-twitter"></i></a></li>
+        
+                <li class="facebook"><a target="_blank" class="vector_icon" href="https://www.facebook.com/MDTheatreGuide/"><i class="fa-icon-facebook "></i></a></li>        
+        
+        
+        
+                        <li class="youtube"><a target="_blank" class="vector_icon" href="https://www.youtube.com/user/mdtheatreguide/feed"><i class="fa-icon-youtube"></i></a></li>
+        
+        
+        
+        
+
+        
+
+        
+                                     <li class="rss"><a target="_blank" class="vector_icon" href="https://mdtheatreguide.com/feed/"><i class="fa-icon-rss"></i></a></li>
+        	
+	    </ul>				                </div>
+           </div>
+            <div class="clear"></div>
+        </div> <!--Boxed wrap-->
+        	             <script type="text/javascript" id="pf_script">
+                      var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfImagesSize = 'full-size';
+          var pfImageDisplayStyle = 'right';
+          var pfEncodeImages = '0';
+          var pfShowHiddenContent  = '0';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+
+            
+          var pfPlatform = 'WordPress';
+
+        (function($){
+            $(document).ready(function(){
+                if($('.pf-button-content').length === 0){
+                    $('style#pf-excerpt-styles').remove();
+                }
+            });
+        })(jQuery);
+        </script>
+      <script defer src='https://cdn.printfriendly.com/printfriendly.js'></script>
+            
+            <script type='text/javascript' id='clicktrack-adrotate-js-extra'>
+/* <![CDATA[ */
+var click_object = {"ajax_url":"https:\/\/mdtheatreguide.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-content/plugins/adrotate/library/jquery.adrotate.clicktracker.js' id='clicktrack-adrotate-js'></script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-content/themes/goodnews5/js/plugins.js?ver=5.11.1' id='plugins-js'></script>
+<script type='text/javascript' id='Momizat-main-js-js-extra'>
+/* <![CDATA[ */
+var momAjaxL = {"url":"https:\/\/mdtheatreguide.com\/wp-admin\/admin-ajax.php","nonce":"ec635e6b3d","success":"check your email to complete subscription","error":"Already subscribed","error2":"Email invalid","werror":"Enter a valid city name.","nomore":"No More Posts","homeUrl":"https:\/\/mdtheatreguide.com","viewAll":"View All","noResults":"Sorry, no posts matched your criteria","bodyad":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-content/themes/goodnews5/js/main.js?ver=5.11.1' id='Momizat-main-js-js'></script>
+<script type='text/javascript' src='https://mdtheatreguide.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.min.js?ver=6.10.0' id='prettyphoto-js'></script>
+	<script src='https://stats.wp.com/e-202314.js' defer></script>
+	<script>
+		_stq = window._stq || [];
+		_stq.push([ 'view', {v:'ext',blog:'24063486',post:'161196',tz:'-4',srv:'mdtheatreguide.com',j:'1:12.0'} ]);
+		_stq.push([ 'clickTrackerInit', '24063486', '161196' ]);
+	</script>    </body>
+</html>

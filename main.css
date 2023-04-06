@@ -1,0 +1,74 @@
+.flexbox-container {
+    display: flex;
+    background-color: aqua;
+
+
+}
+
+.flexbox-item {
+    width: 200px;
+    margin: 10px;
+    border: 3px solid #333;
+    background-color: #dfdfdf;
+}
+
+.flexbox-item-1 {
+    min-height: 100px;
+}
+.flexbox-item-2 {
+    min-height: 200px;
+}
+.flexbox-item-3 {
+    min-height: 300px;
+}
+
+.navbar {
+    background-color: black;
+    justify-content: space-around;
+    height: 50px;
+    color: white;
+}
+
+.title {
+    
+}
+
+.link-box {
+    min-width: 50%;
+    padding-right: 40px;
+    justify-content: center;
+
+}
+
+.links{
+    list-style: none;
+    display: inline-flex;
+}
+
+.navlink{
+    border: none;
+    width: 80px;
+    margin: 5px;
+    height: 18px;
+
+}
+
+hero{
+    position: relative;
+    height: 800px;
+    text-align: center;
+    color: white;
+}
+
+.hero-image{
+    width: 100%;
+}
+
+h1{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 850%;
+}
+
